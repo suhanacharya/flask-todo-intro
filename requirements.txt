@@ -1,8 +1,6 @@
 # packages in environment at C:\Users\Suhan Acharya\anaconda3\envs\flask-todo:
 #
 # Name                    Version                   Build  Channel
-ca-certificates           2020.7.22                     0    anaconda
-certifi                   2020.6.20                py38_0    anaconda
 click                     7.1.2                      py_0  
 flask                     1.1.2                      py_0  
 flask-sqlalchemy          2.4.4                      py_0    anaconda
